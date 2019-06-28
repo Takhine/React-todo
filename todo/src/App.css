@@ -22,6 +22,12 @@
 .App-link {
   color: #61dafb;
 }
+.done{
+  text-decoration: line-through;
+}
+.not-done{
+  text-decoration: none;
+}
 
 @keyframes App-logo-spin {
   from {
